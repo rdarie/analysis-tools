@@ -7,3 +7,9 @@
 
 #ignore .DS_Store (mac)
 .DS_Store
+
+#ignore vscode option files
+.vscode*
+
+#ignore python distutils stuff
+*.egg*
