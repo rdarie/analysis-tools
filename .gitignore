@@ -9,7 +9,7 @@
 .DS_Store
 
 #ignore vscode option files
-.vscode*
+.vscode/ftp-sync.json
 
 #ignore python distutils stuff
 *.egg*
